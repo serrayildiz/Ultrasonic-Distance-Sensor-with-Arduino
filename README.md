@@ -1,0 +1,2 @@
+# Ultrasonic Distance Sensor with Arduino
+ This project utilizes an Arduino microcontroller along with an ultrasonic distance sensor to measure distances and provide warnings when objects are detected within certain ranges. The distance measurements are displayed on an LCD screen and communicated via Bluetooth serial communication. Additionally, a buzzer is used to provide audible alerts when objects are detected within close proximity.
